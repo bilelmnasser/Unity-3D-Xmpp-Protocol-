@@ -1,0 +1,10 @@
+C:\Users\Bilel\Desktop\Xmpp Lib\bin\Debug\agsXMPP.dll
+C:\Users\Bilel\Desktop\Xmpp Lib\bin\Debug\agsXMPP.pdb
+C:\Users\Bilel\Desktop\Xmpp Lib\obj\Debug\agsXMPP.dll
+C:\Users\Bilel\Desktop\Xmpp Lib\obj\Debug\agsXMPP.pdb
+C:\Users\bilel\Desktop\Unity Chat\Xmpp Library\Xmpp\Xmpp Lib\obj\Debug\Xmpp Library.csprojResolveAssemblyReference.cache
+C:\Users\bilel\Desktop\Unity Chat\Xmpp Library\Xmpp\Xmpp Lib\bin\Debug\Xmpp For Net 2.0.xml
+C:\Users\bilel\Desktop\Unity Chat\Xmpp Library\Xmpp\Xmpp Lib\bin\Debug\Xmpp For Net 2.0.dll
+C:\Users\bilel\Desktop\Unity Chat\Xmpp Library\Xmpp\Xmpp Lib\bin\Debug\Xmpp For Net 2.0.pdb
+C:\Users\bilel\Desktop\Unity Chat\Xmpp Library\Xmpp\Xmpp Lib\obj\Debug\Xmpp For Net 2.0.dll
+C:\Users\bilel\Desktop\Unity Chat\Xmpp Library\Xmpp\Xmpp Lib\obj\Debug\Xmpp For Net 2.0.pdb

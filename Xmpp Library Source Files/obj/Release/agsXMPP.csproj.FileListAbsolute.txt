@@ -1,0 +1,3 @@
+C:\Users\Bilel\Downloads\agsXmpp-master\agsXmpp-master\agsxmpp\bin\Release\agsXMPP.xml
+C:\Users\Bilel\Downloads\agsXmpp-master\agsXmpp-master\agsxmpp\bin\Release\agsXMPP.dll
+C:\Users\Bilel\Downloads\agsXmpp-master\agsXmpp-master\agsxmpp\obj\Release\agsXMPP.dll

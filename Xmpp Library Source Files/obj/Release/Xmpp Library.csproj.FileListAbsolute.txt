@@ -1,0 +1,4 @@
+C:\Users\Bilel\Desktop\Xmpp Lib\obj\Release\Xmpp Library.csprojResolveAssemblyReference.cache
+C:\Users\Bilel\Desktop\Xmpp Lib\obj\Release\agsXMPP.dll
+C:\Users\Bilel\Desktop\Xmpp Lib\bin\Release\agsXMPP.xml
+C:\Users\Bilel\Desktop\Xmpp Lib\bin\Release\agsXMPP.dll

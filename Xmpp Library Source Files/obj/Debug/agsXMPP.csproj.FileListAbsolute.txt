@@ -1,0 +1,5 @@
+C:\Users\Bilel\Downloads\agsXmpp-master\agsXmpp-master\agsxmpp\bin\Debug\agsXMPP.dll
+C:\Users\Bilel\Downloads\agsXmpp-master\agsXmpp-master\agsxmpp\bin\Debug\agsXMPP.pdb
+C:\Users\Bilel\Downloads\agsXmpp-master\agsXmpp-master\agsxmpp\obj\Debug\agsXMPP.csprojResolveAssemblyReference.cache
+C:\Users\Bilel\Downloads\agsXmpp-master\agsXmpp-master\agsxmpp\obj\Debug\agsXMPP.dll
+C:\Users\Bilel\Downloads\agsXmpp-master\agsXmpp-master\agsxmpp\obj\Debug\agsXMPP.pdb

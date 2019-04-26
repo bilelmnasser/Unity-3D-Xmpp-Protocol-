@@ -8,12 +8,13 @@ Unlike most instant messaging protocols, XMPP is defined in an open standard and
 
 
 
-1- Built Dll FIle From Visual Studio 
+<b>1- Built Dll FIle From Visual Studio 
 
 2- Inmport into Unity3D 
 
 3- Works PC/Linux/Mac/Android Platform/Ios Platform
 
+</b>
 
 
 Thanks for puting a star to my Repositories :)

@@ -1,4 +1,4 @@
-# Xmpp-Net-2.0-Protocol-
+# Unity 3D Xmpp Library Targeting c# DOTNET 2.0
 First Attemps to Implement Xmpp Library For Unity 3D &lt; Net 3.5 With C#
 
 

@@ -6,9 +6,11 @@ Extensible Messaging and Presence Protocol (XMPP) is a communication protocol fo
 
 Unlike most instant messaging protocols, XMPP is defined in an open standard and uses an open systems approach of development and application, by which anyone may implement an XMPP service and interoperate with other organizations' implementations. Because XMPP is an open protocol, implementations can be developed using any software license and many server, client, and library implementations are distributed as free and open-source software. Numerous freeware and commercial software implementations also exist.
 
+<b>
+  YOU NEED A WORKING XMPP SERVER To TEST THIS LIBRARY
+  
 
-
-<b>1- Built Dll File From Visual Studio solution
+1- Built Dll File From Visual Studio solution
 
 2- Import the dll into Unity3D under folder plugins
 

@@ -1,3 +1,7 @@
+
+<b>Support is welcome to share more work in the future :</b><br>
+my patreon page : https://patreon.com/bilelmnasser
+
 # Unity 3D Xmpp Library Targeting c# DOTNET 2.0
 First Attemps to Implement Xmpp Library For Unity 3D &lt; Net 3.5 With C#
 
@@ -38,3 +42,7 @@ Thanks for puting a star to my Repositories :)
 
 
 have a good developpement Day !!
+
+
+<b>Support is welcome to share more work in the future :</b><br>
+my patreon page : https://patreon.com/bilelmnasser

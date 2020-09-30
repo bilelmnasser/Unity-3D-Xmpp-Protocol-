@@ -44,5 +44,4 @@ Thanks for puting a star to my Repositories :)
 have a good developpement Day !!
 
 
-<b>Support is welcome to share more work in the future :</b><br>
-my patreon page : https://patreon.com/bilelmnasser
+<b>Buy me a coofee to share more work in the future at  : https://patreon.com/bilelmnasser
